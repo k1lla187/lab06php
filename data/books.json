@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1972",
+        "name": "Afghan-Soviet war",
+        "author": "Partizan",
+        "year": 1990,
+        "cat": "Văn học",
+        "qty": 8,
+        "price": 40000,
+        "published": "1990-12-25"
+    },
+    {
+        "id": "1979",
+        "name": "Roadside Picnic",
+        "author": "Arkady and Boris Strugatsky",
+        "year": 1972,
+        "cat": "Văn học",
+        "qty": 5,
+        "price": 694202,
+        "published": "1972-12-25"
+    },
+    {
+        "id": "20230199",
+        "name": "2016 was lit",
+        "author": "Vi Anh Tuấn",
+        "year": 2020,
+        "cat": "Khác",
+        "qty": 67,
+        "price": 69420,
+        "published": "2020-12-25"
+    }
+]
